@@ -14,7 +14,7 @@ except Exception, e:
 (no found the module)
 pip3 install <module> -> search again (find, locale) -> (import module tricks)
 ```
-
+```
 (run)
 python2 <script>.py -h # --help
 ```
