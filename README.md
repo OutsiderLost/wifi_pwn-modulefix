@@ -1,5 +1,5 @@
 # wifi_pwn-modulefix
-wifi_pwn python2 scripts modul error fixing tricks. No need pip2!
+# wifi_pwn python2 scripts modul error fixing tricks. No need pip2!
 
 find the missing module (find, locale) -> add the module path in scipt (import os...) -> forcing import again due error the first import trick
 ```
