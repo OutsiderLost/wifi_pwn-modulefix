@@ -22,4 +22,5 @@ The only advantage of this is that it doesn't require any dependencies by defaul
 Some scripts won't work with this method either!
 Solution: Download pip2 from source. Recommended use virtualenv in order to avoid other errors.
 other info: https://stackoverflow.com/questions/46602880/importerror-no-module-named-scapy-all
+Or read here for more solution, 'Optional Dependencies': https://scapy.readthedocs.io/en/latest/installation.html
 --------------------
